@@ -92,9 +92,9 @@ This project answers important business questions such as:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Hemant
 
-* Aspiring Data Analyst
+* Data Analyst
 * Skilled in SQL, Data Analysis, and Problem Solving
 
 ---
@@ -103,4 +103,3 @@ This project answers important business questions such as:
 
 This project reflects the ability to think beyond queries — focusing on how data can drive business decisions and insights.
 
-If you found this project useful, feel free to ⭐ the repository!
